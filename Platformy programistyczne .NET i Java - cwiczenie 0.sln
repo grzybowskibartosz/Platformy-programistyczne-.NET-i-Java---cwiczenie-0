@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformy programistyczne .NET i Java - cwiczenie 0", "Platformy programistyczne .NET i Java\Platformy programistyczne .NET i Java - cwiczenie 0.csproj", "{AAD7162B-7734-410A-95A6-A091920C2E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD7162B-7734-410A-95A6-A091920C2E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD7162B-7734-410A-95A6-A091920C2E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD7162B-7734-410A-95A6-A091920C2E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD7162B-7734-410A-95A6-A091920C2E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B960F180-D8E1-429E-BDFE-B0636394DE1D}
+	EndGlobalSection
+EndGlobal
